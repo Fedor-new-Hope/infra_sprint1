@@ -1,0 +1,7 @@
+IP: 158.160.68.65
+
+name_taski: https://eloublubass.hopto.org/;
+name_kittygram: https://kotikmotikdog.ddns.net/;
+login: yc-user;
+password: 1111;
+
